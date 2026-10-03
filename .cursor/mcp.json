@@ -1,0 +1,16 @@
+{
+  "mcpServers": {
+    "linkedin-mcp": {
+      "command": "C:\\Users\\SaraHajati\\OneDrive - VIFC Limited Partnership\\Documents\\Jobify\\.venv\\Scripts\\python.exe",
+      "args": [
+        "-B",
+        "C:\\Users\\SaraHajati\\OneDrive - VIFC Limited Partnership\\Documents\\Jobify\\src\\linkedin_mcp\\server\\server.py",
+        "stdio"
+      ],
+      "cwd": "C:\\Users\\SaraHajati\\OneDrive - VIFC Limited Partnership\\Documents\\Jobify",
+      "env": {
+        "PYTHONPATH": "C:\\Users\\SaraHajati\\OneDrive - VIFC Limited Partnership\\Documents\\Jobify\\src"
+      }
+    }
+  }
+}
