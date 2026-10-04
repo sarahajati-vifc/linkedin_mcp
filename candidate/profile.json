@@ -1,0 +1,156 @@
+{
+  "full_name": "Sara Hajati",
+  "first_name": "Sara",
+  "last_name": "Hajati",
+  "email": "hajatis1227@gmail.com",
+  "phone": "5145688692",
+  "linkedin_url": "https://www.linkedin.com/in/sara-hajati",
+  "location": "Montreal, Quebec, Canada",
+  "work_authorization": "",
+  "summary": "Technical Product Lead with 6+ years across marine transportation, ecommerce, blockchain and Web3. Focused on product strategy, analytics infrastructure, UX optimization, CDPs, marketing attribution and revenue growth.",
+  "target_roles": [
+    "Technical Product Manager",
+    "Technical Product Lead",
+    "Product Manager",
+    "Product Lead",
+    "Growth Product Manager"
+  ],
+  "keywords": [
+    "product management",
+    "technical product",
+    "analytics",
+    "CDP",
+    "Segment",
+    "SQL",
+    "Python",
+    "growth",
+    "conversion",
+    "MCP",
+    "data platforms",
+    "API integration"
+  ],
+  "preferences": {
+    "work_modes": {
+      "remote_canada_ok": true,
+      "hybrid_montreal_ok": true,
+      "onsite_montreal_ok": false,
+      "remote_outside_canada_ok": false
+    },
+    "locations_ok": [
+      "Montreal",
+      "Montréal",
+      "Quebec",
+      "Québec",
+      "Canada",
+      "Remote Canada",
+      "Canada Remote",
+      "Remote - Canada",
+      "Canadian Remote"
+    ],
+    "locations_reject": [
+      "United States",
+      "USA",
+      "US-Remote",
+      "Remote US",
+      "Remote from the US",
+      "United Kingdom",
+      "UK",
+      "India",
+      "Bengaluru",
+      "Bangalore",
+      "Mexico",
+      "Europe",
+      "EMEA",
+      "APAC"
+    ],
+    "seniority_ok": ["mid", "senior", "lead", "staff"],
+    "require_location_fit": true,
+    "min_compensation": null
+  },
+  "experience_markdown": "candidate/profile/sara-hajati-experience-and-skills-detail.md",
+  "resume_pdf": "candidate/resumes/Sara_Hajati_Resume_2026.pdf",
+  "employments": [
+    {
+      "company_name": "Hullo (VIFC)",
+      "title": "Technical Product Lead",
+      "start_date": {"month": 12, "year": 2023},
+      "end_date": null,
+      "current": true
+    },
+    {
+      "company_name": "Wallex",
+      "title": "Technical Product Manager",
+      "start_date": {"month": 6, "year": 2022},
+      "end_date": {"month": 12, "year": 2023},
+      "current": false
+    },
+    {
+      "company_name": "Digikala",
+      "title": "Product Manager",
+      "start_date": {"month": 10, "year": 2020},
+      "end_date": {"month": 6, "year": 2022},
+      "current": false
+    },
+    {
+      "company_name": "Digikala",
+      "title": "Associate Product Manager",
+      "start_date": {"month": 5, "year": 2020},
+      "end_date": {"month": 10, "year": 2020},
+      "current": false
+    },
+    {
+      "company_name": "Digikala",
+      "title": "Product Data Analyst",
+      "start_date": {"month": 6, "year": 2019},
+      "end_date": {"month": 5, "year": 2020},
+      "current": false
+    }
+  ],
+  "educations": [
+    {
+      "school_name": "Concordia University",
+      "degree": "Master of Engineering",
+      "discipline": "See experience notes for exact program name to confirm",
+      "end_year": 2025
+    },
+    {
+      "school_name": "University of Tehran",
+      "degree": "Master of Business Administration",
+      "discipline": "Business Administration",
+      "end_year": 2022
+    },
+    {
+      "school_name": "University of Tehran",
+      "degree": "Bachelor of Electrical and Computer Engineering",
+      "discipline": "Electrical and Computer Engineering",
+      "end_year": null
+    }
+  ],
+  "preapproved_answers": {
+    "linkedin": "https://www.linkedin.com/in/sara-hajati",
+    "website": "",
+    "how_heard": "Company careers page / Greenhouse job board",
+    "sponsorship_needed": "",
+    "work_authorized_canada": "",
+    "work_authorized_us": ""
+  },
+  "sensitive_question_keywords": [
+    "citizen",
+    "citizenship",
+    "visa",
+    "sponsor",
+    "sponsorship",
+    "authorized to work",
+    "work authorization",
+    "gender",
+    "race",
+    "ethnicity",
+    "veteran",
+    "disability",
+    "criminal",
+    "salary",
+    "compensation",
+    "expected pay",
+    "current pay"
+  ]
+}

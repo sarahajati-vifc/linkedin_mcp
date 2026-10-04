@@ -12,3 +12,5 @@ wheels/
 .env
 cookies/
 *.pkl
+candidate/data/
+candidate/resumes/*.pdf

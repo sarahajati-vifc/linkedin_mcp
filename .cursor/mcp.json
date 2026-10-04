@@ -11,6 +11,19 @@
       "env": {
         "PYTHONPATH": "C:\\Users\\SaraHajati\\OneDrive - VIFC Limited Partnership\\Documents\\Jobify\\src"
       }
+    },
+    "apply-mcp": {
+      "command": "C:\\Users\\SaraHajati\\OneDrive - VIFC Limited Partnership\\Documents\\Jobify\\.venv\\Scripts\\python.exe",
+      "args": [
+        "-B",
+        "C:\\Users\\SaraHajati\\OneDrive - VIFC Limited Partnership\\Documents\\Jobify\\src\\apply_mcp\\server.py",
+        "stdio"
+      ],
+      "cwd": "C:\\Users\\SaraHajati\\OneDrive - VIFC Limited Partnership\\Documents\\Jobify",
+      "env": {
+        "PYTHONPATH": "C:\\Users\\SaraHajati\\OneDrive - VIFC Limited Partnership\\Documents\\Jobify\\src",
+        "JOBIFY_ROOT": "C:\\Users\\SaraHajati\\OneDrive - VIFC Limited Partnership\\Documents\\Jobify"
+      }
     }
   }
 }

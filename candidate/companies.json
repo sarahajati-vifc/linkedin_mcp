@@ -1,0 +1,52 @@
+{
+  "boards": [
+    {
+      "name": "Stripe",
+      "ats": "greenhouse",
+      "board_token": "stripe",
+      "allowed_for_api_submit": false
+    },
+    {
+      "name": "Notion",
+      "ats": "greenhouse",
+      "board_token": "notion",
+      "allowed_for_api_submit": false
+    },
+    {
+      "name": "Figma",
+      "ats": "greenhouse",
+      "board_token": "figma",
+      "allowed_for_api_submit": false
+    },
+    {
+      "name": "Airbnb",
+      "ats": "greenhouse",
+      "board_token": "airbnb",
+      "allowed_for_api_submit": false
+    },
+    {
+      "name": "Discord",
+      "ats": "greenhouse",
+      "board_token": "discord",
+      "allowed_for_api_submit": false
+    },
+    {
+      "name": "Datadog",
+      "ats": "greenhouse",
+      "board_token": "datadog",
+      "allowed_for_api_submit": false
+    },
+    {
+      "name": "Shopify",
+      "ats": "greenhouse",
+      "board_token": "shopify",
+      "allowed_for_api_submit": false
+    },
+    {
+      "name": "Cloudflare",
+      "ats": "greenhouse",
+      "board_token": "cloudflare",
+      "allowed_for_api_submit": false
+    }
+  ]
+}
