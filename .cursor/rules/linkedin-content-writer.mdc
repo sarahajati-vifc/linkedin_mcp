@@ -1,0 +1,14 @@
+---
+description: Invoke the linkedin-content-writer skill for LinkedIn content tasks
+alwaysApply: true
+---
+
+# LinkedIn Content Writer host instructions
+
+Do not assume content is for LinkedIn unless the user asks.
+
+For every turn in an active LinkedIn content task, read and follow `.cursor/skills/linkedin-content-writer/SKILL.md` before responding.
+
+This includes initial requests, answers to clarification questions, added facts or preferences, revisions, reviews, corrections, and short follow-up messages. Continue using the skill until the user changes topic or ends the LinkedIn task.
+
+Do not draft, rewrite, polish, review, repurpose, brainstorm, revise, or configure LinkedIn writing preferences without invoking the skill.
